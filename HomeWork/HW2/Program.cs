@@ -5,7 +5,7 @@
 22 3 9 -> 22
 */
 
-Console.Write("Введите певое число ");
+Console.Write("Введите первое число ");
 int a = int.Parse(Console.ReadLine());
 
 Console.Write("Введите второе число ");
@@ -18,15 +18,15 @@ if (a > b)
 {
     if (a > c)
     {
-        Console.WriteLine($"Максимальный из трех чисел это {a}");
+        Console.WriteLine($"Максимальный из трех чисел это: {a}");
         return;
     }
-    Console.WriteLine($"Максимальный из трех чисел это {c}");
+    Console.WriteLine($"Максимальный из трех чисел это: {c}");
     return;
 }
 if (b > c)
 {
-    Console.WriteLine($"Максимальный из трех чисел это {b}");
+    Console.WriteLine($"Максимальный из трех чисел это: {b}");
     return;
 }
 
