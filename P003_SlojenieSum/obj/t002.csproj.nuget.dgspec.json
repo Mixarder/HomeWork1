@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Mike/Documents/Learning QA/Git_Repo/C#/myTraning/t002/t002.csproj": {}
+    "/Users/Mike/Documents/Learning QA/Git_Repo/C#/Primeri_zadach/P003_SlojenieSum/t002.csproj": {}
   },
   "projects": {
-    "/Users/Mike/Documents/Learning QA/Git_Repo/C#/myTraning/t002/t002.csproj": {
+    "/Users/Mike/Documents/Learning QA/Git_Repo/C#/Primeri_zadach/P003_SlojenieSum/t002.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Mike/Documents/Learning QA/Git_Repo/C#/myTraning/t002/t002.csproj",
+        "projectUniqueName": "/Users/Mike/Documents/Learning QA/Git_Repo/C#/Primeri_zadach/P003_SlojenieSum/t002.csproj",
         "projectName": "t002",
-        "projectPath": "/Users/Mike/Documents/Learning QA/Git_Repo/C#/myTraning/t002/t002.csproj",
+        "projectPath": "/Users/Mike/Documents/Learning QA/Git_Repo/C#/Primeri_zadach/P003_SlojenieSum/t002.csproj",
         "packagesPath": "/Users/Mike/.nuget/packages/",
-        "outputPath": "/Users/Mike/Documents/Learning QA/Git_Repo/C#/myTraning/t002/obj/",
+        "outputPath": "/Users/Mike/Documents/Learning QA/Git_Repo/C#/Primeri_zadach/P003_SlojenieSum/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Mike/.nuget/NuGet/NuGet.Config"
