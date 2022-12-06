@@ -5,9 +5,9 @@ a = 2 b = 10 -> max = 10
 a = -9 b = -3 -> max = -3
 */ 
 
-Console.Write("Ведите первое число ");
+Console.Write("Ведите первое число: ");
 int numA = int.Parse(Console.ReadLine());
-Console.Write("Ведите второе число ");
+Console.Write("Ведите второе число: ");
 int numB = int.Parse(Console.ReadLine());
 if(numA > numB)
 {
