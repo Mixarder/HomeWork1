@@ -1,0 +1,15 @@
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson1/Examples/Exaple007_Magic/bin/Debug/net6.0/Exaple007_Magic
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson1/Examples/Exaple007_Magic/bin/Debug/net6.0/Exaple007_Magic.deps.json
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson1/Examples/Exaple007_Magic/bin/Debug/net6.0/Exaple007_Magic.runtimeconfig.json
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson1/Examples/Exaple007_Magic/bin/Debug/net6.0/Exaple007_Magic.dll
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson1/Examples/Exaple007_Magic/bin/Debug/net6.0/Exaple007_Magic.pdb
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson1/Examples/Exaple007_Magic/obj/Debug/net6.0/Exaple007_Magic.csproj.AssemblyReference.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson1/Examples/Exaple007_Magic/obj/Debug/net6.0/Exaple007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson1/Examples/Exaple007_Magic/obj/Debug/net6.0/Exaple007_Magic.AssemblyInfoInputs.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson1/Examples/Exaple007_Magic/obj/Debug/net6.0/Exaple007_Magic.AssemblyInfo.cs
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson1/Examples/Exaple007_Magic/obj/Debug/net6.0/Exaple007_Magic.csproj.CoreCompileInputs.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson1/Examples/Exaple007_Magic/obj/Debug/net6.0/Exaple007_Magic.dll
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson1/Examples/Exaple007_Magic/obj/Debug/net6.0/refint/Exaple007_Magic.dll
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson1/Examples/Exaple007_Magic/obj/Debug/net6.0/Exaple007_Magic.pdb
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson1/Examples/Exaple007_Magic/obj/Debug/net6.0/Exaple007_Magic.genruntimeconfig.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson1/Examples/Exaple007_Magic/obj/Debug/net6.0/ref/Exaple007_Magic.dll

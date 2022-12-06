@@ -1,0 +1,15 @@
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/Sortirovka_Massiva/bin/Debug/net6.0/Sortirovka_Massiva
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/Sortirovka_Massiva/bin/Debug/net6.0/Sortirovka_Massiva.deps.json
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/Sortirovka_Massiva/bin/Debug/net6.0/Sortirovka_Massiva.runtimeconfig.json
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/Sortirovka_Massiva/bin/Debug/net6.0/Sortirovka_Massiva.dll
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/Sortirovka_Massiva/bin/Debug/net6.0/Sortirovka_Massiva.pdb
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/Sortirovka_Massiva/obj/Debug/net6.0/Sortirovka_Massiva.csproj.AssemblyReference.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/Sortirovka_Massiva/obj/Debug/net6.0/Sortirovka_Massiva.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/Sortirovka_Massiva/obj/Debug/net6.0/Sortirovka_Massiva.AssemblyInfoInputs.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/Sortirovka_Massiva/obj/Debug/net6.0/Sortirovka_Massiva.AssemblyInfo.cs
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/Sortirovka_Massiva/obj/Debug/net6.0/Sortirovka_Massiva.csproj.CoreCompileInputs.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/Sortirovka_Massiva/obj/Debug/net6.0/Sortirovka_Massiva.dll
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/Sortirovka_Massiva/obj/Debug/net6.0/refint/Sortirovka_Massiva.dll
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/Sortirovka_Massiva/obj/Debug/net6.0/Sortirovka_Massiva.pdb
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/Sortirovka_Massiva/obj/Debug/net6.0/Sortirovka_Massiva.genruntimeconfig.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/Sortirovka_Massiva/obj/Debug/net6.0/ref/Sortirovka_Massiva.dll

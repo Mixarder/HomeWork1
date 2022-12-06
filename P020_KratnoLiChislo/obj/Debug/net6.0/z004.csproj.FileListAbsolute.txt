@@ -1,0 +1,15 @@
+/Users/Mike/Documents/Learning QA/Git_Repo/vebinar03.12/z004/obj/Debug/net6.0/z004.csproj.AssemblyReference.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/vebinar03.12/z004/obj/Debug/net6.0/z004.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mike/Documents/Learning QA/Git_Repo/vebinar03.12/z004/obj/Debug/net6.0/z004.AssemblyInfoInputs.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/vebinar03.12/z004/obj/Debug/net6.0/z004.AssemblyInfo.cs
+/Users/Mike/Documents/Learning QA/Git_Repo/vebinar03.12/z004/obj/Debug/net6.0/z004.csproj.CoreCompileInputs.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/vebinar03.12/z004/bin/Debug/net6.0/z004
+/Users/Mike/Documents/Learning QA/Git_Repo/vebinar03.12/z004/bin/Debug/net6.0/z004.deps.json
+/Users/Mike/Documents/Learning QA/Git_Repo/vebinar03.12/z004/bin/Debug/net6.0/z004.runtimeconfig.json
+/Users/Mike/Documents/Learning QA/Git_Repo/vebinar03.12/z004/bin/Debug/net6.0/z004.dll
+/Users/Mike/Documents/Learning QA/Git_Repo/vebinar03.12/z004/bin/Debug/net6.0/z004.pdb
+/Users/Mike/Documents/Learning QA/Git_Repo/vebinar03.12/z004/obj/Debug/net6.0/z004.dll
+/Users/Mike/Documents/Learning QA/Git_Repo/vebinar03.12/z004/obj/Debug/net6.0/refint/z004.dll
+/Users/Mike/Documents/Learning QA/Git_Repo/vebinar03.12/z004/obj/Debug/net6.0/z004.pdb
+/Users/Mike/Documents/Learning QA/Git_Repo/vebinar03.12/z004/obj/Debug/net6.0/z004.genruntimeconfig.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/vebinar03.12/z004/obj/Debug/net6.0/ref/z004.dll

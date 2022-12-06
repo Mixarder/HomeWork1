@@ -1,0 +1,15 @@
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/myTraning/t003/bin/Debug/net6.0/t003
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/myTraning/t003/bin/Debug/net6.0/t003.deps.json
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/myTraning/t003/bin/Debug/net6.0/t003.runtimeconfig.json
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/myTraning/t003/bin/Debug/net6.0/t003.dll
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/myTraning/t003/bin/Debug/net6.0/t003.pdb
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/myTraning/t003/obj/Debug/net6.0/t003.csproj.AssemblyReference.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/myTraning/t003/obj/Debug/net6.0/t003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/myTraning/t003/obj/Debug/net6.0/t003.AssemblyInfoInputs.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/myTraning/t003/obj/Debug/net6.0/t003.AssemblyInfo.cs
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/myTraning/t003/obj/Debug/net6.0/t003.csproj.CoreCompileInputs.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/myTraning/t003/obj/Debug/net6.0/t003.dll
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/myTraning/t003/obj/Debug/net6.0/refint/t003.dll
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/myTraning/t003/obj/Debug/net6.0/t003.pdb
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/myTraning/t003/obj/Debug/net6.0/t003.genruntimeconfig.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/myTraning/t003/obj/Debug/net6.0/ref/t003.dll

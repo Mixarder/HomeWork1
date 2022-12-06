@@ -1,0 +1,15 @@
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/obj/Debug/net6.0/lesson3.csproj.AssemblyReference.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/obj/Debug/net6.0/lesson3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/obj/Debug/net6.0/lesson3.AssemblyInfoInputs.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/obj/Debug/net6.0/lesson3.AssemblyInfo.cs
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/obj/Debug/net6.0/lesson3.csproj.CoreCompileInputs.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/bin/Debug/net6.0/lesson3
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/bin/Debug/net6.0/lesson3.deps.json
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/bin/Debug/net6.0/lesson3.runtimeconfig.json
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/bin/Debug/net6.0/lesson3.dll
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/bin/Debug/net6.0/lesson3.pdb
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/obj/Debug/net6.0/lesson3.dll
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/obj/Debug/net6.0/refint/lesson3.dll
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/obj/Debug/net6.0/lesson3.pdb
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/obj/Debug/net6.0/lesson3.genruntimeconfig.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/lesson3/obj/Debug/net6.0/ref/lesson3.dll

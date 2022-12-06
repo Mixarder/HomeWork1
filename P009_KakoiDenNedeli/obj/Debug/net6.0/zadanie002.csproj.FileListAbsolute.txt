@@ -1,0 +1,15 @@
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/vebinar 1/zadanie002/obj/Debug/net6.0/zadanie002.csproj.AssemblyReference.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/vebinar 1/zadanie002/obj/Debug/net6.0/zadanie002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/vebinar 1/zadanie002/obj/Debug/net6.0/zadanie002.AssemblyInfoInputs.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/vebinar 1/zadanie002/obj/Debug/net6.0/zadanie002.AssemblyInfo.cs
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/vebinar 1/zadanie002/obj/Debug/net6.0/zadanie002.csproj.CoreCompileInputs.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/vebinar 1/zadanie002/bin/Debug/net6.0/zadanie002
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/vebinar 1/zadanie002/bin/Debug/net6.0/zadanie002.deps.json
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/vebinar 1/zadanie002/bin/Debug/net6.0/zadanie002.runtimeconfig.json
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/vebinar 1/zadanie002/bin/Debug/net6.0/zadanie002.dll
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/vebinar 1/zadanie002/bin/Debug/net6.0/zadanie002.pdb
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/vebinar 1/zadanie002/obj/Debug/net6.0/zadanie002.dll
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/vebinar 1/zadanie002/obj/Debug/net6.0/refint/zadanie002.dll
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/vebinar 1/zadanie002/obj/Debug/net6.0/zadanie002.pdb
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/vebinar 1/zadanie002/obj/Debug/net6.0/zadanie002.genruntimeconfig.cache
+/Users/Mike/Documents/Learning QA/Git_Repo/C#/vebinar 1/zadanie002/obj/Debug/net6.0/ref/zadanie002.dll
